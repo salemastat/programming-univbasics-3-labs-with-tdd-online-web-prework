@@ -1,2 +1,1 @@
-expect(first_number).to be_an(Integer).or be_a(Float)
-  end
+first_number = "1", or "1.5"
